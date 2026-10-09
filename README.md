@@ -1,0 +1,1 @@
+# Medical-Monitor-OCR-Data-Extraction-OpenCV-EasyOCR-
